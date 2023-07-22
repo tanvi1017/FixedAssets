@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FixedAssets</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_enter_your_information_below_in_order">Please enter your information below in order</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="password">Password</string>
+    <string name="enter_your_mail_address">Enter Your Mail Address</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="notification">Notification</string>
+    <string name="signin">SignIn</string>
+    <string name="profile">Profile</string>
+    <string name="ramana_chadwik">Ramana chadwik</string>
+    <string name="verify">Verify</string>
+    <string name="next">Next</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="openSettings">openSettings</string>
+    <string name="permissionRequired">permissionRequired</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="alert">alert</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="signup">SignUp</string>
+    <string name="create_account_to_continue">Create Account to Continue</string>
+    <string name="do_you_agree_to_our_terms_and_condition">Do you agree to our terms and condition</string>
+    <string name="pick_from_gallery">Pick from Gallery</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="select_photo">select photo</string>
+</resources>
